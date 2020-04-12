@@ -1,4 +1,7 @@
+
 # SMS Notifier API
+
+:warning: **This project is no longer up to date, an update in the form of an NPM library is being planned.**
 
 This API allows you to send SMS messages/notifications in a more secure, controlled and DIY (Do It Yourself) way without reinventing the wheel by using the REST API provided by the ["REST SMS Gateway" Android application](https://play.google.com/store/apps/details?id=com.perfness.smsgateway.rest) developed by *Perfness*.
 
